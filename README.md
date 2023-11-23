@@ -1,2 +1,2 @@
 # systeminfo
-System info app for linux/unix
+System info app for macOS.
