@@ -1,0 +1,2 @@
+ system_profiler SPSoftwareDataType SPHardwareDataType SPMemoryDataType SPStorageDataType
+
